@@ -1,0 +1,300 @@
+[
+  {
+    "Fish": {
+      "DeathEffect": "1",
+      "DeathVoice": "FishDying19",
+      "Layer": 1,
+      "PayMulti": 1.1,
+      "Radius": "58,39",
+      "Speed": 1.5,
+      "SwimEffect": "1",
+      "circleRadius": 30
+    },
+    "Type": 1
+  },
+  {
+    "Fish": {
+      "DeathEffect": "2",
+      "DeathVoice": "FishDying19",
+      "Layer": 1,
+      "PayMulti": 1.2,
+      "Radius": "69,37",
+      "Speed": 1.5,
+      "SwimEffect": "2",
+      "circleRadius": 30
+    },
+    "Type": 2
+  },
+  {
+    "Fish": {
+      "DeathEffect": "3",
+      "DeathVoice": "FishDying19",
+      "Layer": 1,
+      "PayMulti": 1.3,
+      "Radius": "70,43",
+      "Speed": 1.5,
+      "SwimEffect": "3",
+      "circleRadius": 30
+    },
+    "Type": 3
+  },
+  {
+    "Fish": {
+      "DeathEffect": "4",
+      "DeathVoice": "FishDying19",
+      "Layer": 1,
+      "PayMulti": 1.5,
+      "Radius": "56,33",
+      "Speed": 1.5,
+      "SwimEffect": "4",
+      "circleRadius": 30
+    },
+    "Type": 4
+  },
+  {
+    "Fish": {
+      "DeathEffect": "5",
+      "DeathVoice": "FishDying19",
+      "Layer": 1,
+      "PayMulti": 1.6,
+      "Radius": "80,47",
+      "Speed": 1.5,
+      "SwimEffect": "5",
+      "Offset": "25,0",
+      "circleRadius": 40
+    },
+    "Type": 5
+  },
+  {
+    "Fish": {
+      "DeathEffect": "6",
+      "DeathVoice": "FishDying19",
+      "Layer": 1,
+      "PayMulti": 1.8,
+      "Radius": "96,40",
+      "Speed": 1.5,
+      "SwimEffect": "6",
+      "circleRadius": 35
+    },
+    "Type": 6
+  },
+  {
+    "Fish": {
+      "DeathEffect": "7",
+      "DeathVoice": "FishDying19",
+      "Layer": 1,
+      "PayMulti": 2,
+      "Radius": "90,45",
+      "Speed": 1.4,
+      "SwimEffect": "7",
+      "circleRadius": 40
+    },
+    "Type": 7
+  },
+  {
+    "Fish": {
+      "DeathEffect": "8",
+      "DeathVoice": "FishDying19",
+      "Layer": 1,
+      "PayMulti": 3,
+      "Radius": "91,55",
+      "Speed": 1.4,
+      "SwimEffect": "8",
+      "Offset": "20,0",
+      "circleRadius": 40
+    },
+    "Type": 8
+  },
+  {
+    "Fish": {
+      "DeathEffect": "9",
+      "DeathVoice": "FishDying20",
+      "Layer": 1,
+      "PayMulti": 5,
+      "Radius": "84,84",
+      "Speed": 1.4,
+      "SwimEffect": "9",
+      "Offset": "20,0",
+      "circleRadius": 35
+    },
+    "Type": 9
+  },
+  {
+    "Fish": {
+      "DeathEffect": "10",
+      "DeathVoice": "FishDying20",
+      "Layer": 2,
+      "PayMulti": 6,
+      "Radius": "115,90",
+      "Speed": 1.4,
+      "SwimEffect": "10",
+      "Offset": "12,0",
+      "circleRadius": 50
+    },
+    "Type": 10
+  },
+  {
+    "Fish": {
+      "DeathEffect": "11",
+      "DeathVoice": "FishDying20",
+      "Layer": 2,
+      "PayMulti": 8,
+      "Radius": "107,86",
+      "Speed": 1.4,
+      "SwimEffect": "11",
+      "Offset": "15,0",
+      "circleRadius": 30
+    },
+    "Type": 11
+  },
+  {
+    "Fish": {
+      "DeathEffect": "12",
+      "DeathVoice": "FishDying20",
+      "Layer": 2,
+      "PayMulti": 10,
+      "Radius": "130,90",
+      "Speed": 1.3,
+      "SwimEffect": "12",
+      "circleRadius": 50
+    },
+    "Type": 12
+  },
+  {
+    "Fish": {
+      "DeathEffect": "13",
+      "DeathVoice": "FishDying20",
+      "Layer": 2,
+      "PayMulti": 20,
+      "Radius": "127,95",
+      "Speed": 1.3,
+      "SwimEffect": "13",
+      "Offset": "20,0",
+      "circleRadius": 35
+    },
+    "Type": 13
+  },
+  {
+    "Fish": {
+      "DeathEffect": "14",
+      "DeathVoice": "FishDying4",
+      "Layer": 2,
+      "PayMulti": 30,
+      "Radius": "96,96",
+      "Speed": 1.3,
+      "SwimEffect": "14",
+      "circleRadius": 35
+    },
+    "Type": 14
+  },
+  {
+    "Fish": {
+      "DeathEffect": "15",
+      "DeathVoice": "FishDying20",
+      "Layer": 2,
+      "PayMulti": 50,
+      "Radius": "108,71",
+      "Speed": 1.3,
+      "SwimEffect": "15",
+      "circleRadius": 35
+    },
+    "Type": 15
+  },
+  {
+    "Fish": {
+      "DeathEffect": "16",
+      "DeathVoice": "FishDying1",
+      "Layer": 2,
+      "PayMulti": 80,
+      "Radius": "127,115",
+      "Speed": 1.3,
+      "SwimEffect": "16",
+      "Offset": "28,0",
+      "circleRadius": 40
+    },
+    "Type": 16
+  },
+  {
+    "Fish": {
+      "DeathEffect": "17",
+      "DeathVoice": "FishDying2",
+      "Layer": 3,
+      "PayMulti": 100,
+      "Radius": "270,97",
+      "Speed": 1.2,
+      "SwimEffect": "17",
+      "Offset": "35,0",
+      "circleRadius": 50
+    },
+    "Type": 17
+  },
+  {
+    "Fish": {
+      "DeathEffect": "18",
+      "DeathVoice": "FishDying6",
+      "Layer": 3,
+      "PayMulti": 200,
+      "Radius": "280,115",
+      "Speed": 1.2,
+      "SwimEffect": "18",
+      "Offset": "45,0",
+      "circleRadius": 50
+    },
+    "Type": 18
+  },
+  {
+    "Fish": {
+      "DeathEffect": "19",
+      "DeathVoice": "FishDying9",
+      "Layer": 3,
+      "PayMulti": 300,
+      "Radius": "280,110",
+      "Speed": 1.2,
+      "SwimEffect": "19",
+      "Offset": "45,0",
+      "circleRadius": 50
+    },
+    "Type": 19
+  },
+  {
+    "Fish": {
+      "DeathEffect": "20",
+      "DeathVoice": "FishDying7",
+      "Layer": 3,
+      "PayMulti": 400,
+      "Radius": "358,77",
+      "Speed": 1.2,
+      "SwimEffect": "20",
+      "Offset": "50,0",
+      "circleRadius": 50
+    },
+    "Type": 20
+  },
+  {
+    "Fish": {
+      "DeathEffect": "21",
+      "DeathVoice": "FishDying13",
+      "Layer": 3,
+      "PayMulti": 500,
+      "Radius": "423,123",
+      "Speed": 1,
+      "SwimEffect": "21",
+      "Offset": "150,0",
+      "circleRadius": 50
+    },
+    "Type": 21
+  },
+  {
+    "Fish": {
+      "DeathEffect": "21",
+      "DeathVoice": "FishDying13",
+      "Layer": 3,
+      "PayMulti": 0,
+      "Radius": "400,205",
+      "Speed": 1,
+      "SwimEffect": "100",
+      "circleRadius": 50
+    },
+    "Type": 100
+  }
+]

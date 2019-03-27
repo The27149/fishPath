@@ -1,0 +1,191 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "fishAni",
+    "_objFlags": 0,
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_parent": null,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 40,
+      "height": 40
+    },
+    "_children": [],
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_tag": -1,
+    "_opacityModifyRGB": false,
+    "_id": "",
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_spriteFrame": {
+      "__uuid__": "8cdb44ac-a3f6-449f-b354-7cd48cf84061"
+    },
+    "_type": 0,
+    "_sizeMode": 2,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": false,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": null
+  },
+  {
+    "__type__": "cc.Animation",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_defaultClip": null,
+    "_clips": [
+      {
+        "__uuid__": "052ae30b-8888-4231-998b-7a0cc67555a3"
+      },
+      {
+        "__uuid__": "6c17ff17-6857-477b-8717-d96dbc9a3be2"
+      },
+      {
+        "__uuid__": "cbe86d2d-4c97-47a0-bd08-62f865e31b59"
+      },
+      {
+        "__uuid__": "fe0d47d5-1a07-40b7-adf1-d5004181bab5"
+      },
+      {
+        "__uuid__": "59eecfdb-1622-431b-87b6-bf8fbe564739"
+      },
+      {
+        "__uuid__": "ae02f340-23e7-40e3-9f98-266a213c8f37"
+      },
+      {
+        "__uuid__": "7336809d-eb93-4c6f-b659-17cb090915f5"
+      },
+      {
+        "__uuid__": "f0082bfd-d1b6-45c0-bd50-46b5bc5f7349"
+      },
+      {
+        "__uuid__": "10baddde-475f-4140-ab47-f514e700b049"
+      },
+      {
+        "__uuid__": "81fdf04f-c963-4608-86ff-272acb2b8b69"
+      },
+      {
+        "__uuid__": "8e9bad5f-3c4e-4682-b288-ecef21323ca6"
+      },
+      {
+        "__uuid__": "10601f72-cadf-43cc-9a9b-03355df77a00"
+      },
+      {
+        "__uuid__": "04d856cc-735e-4f5a-9457-6bae72f34c2a"
+      },
+      {
+        "__uuid__": "a77b30ed-729a-4f23-8d42-68aca2ffc923"
+      },
+      {
+        "__uuid__": "01d49224-9a1d-4bc6-a8ff-31ddcdf810d8"
+      },
+      {
+        "__uuid__": "00410984-3ab5-4120-bd17-c98ca34bff93"
+      },
+      {
+        "__uuid__": "46899873-2e76-4e35-8dfc-24268938dd07"
+      },
+      {
+        "__uuid__": "ddae3bc9-336e-4cce-9592-0efccc308f23"
+      },
+      {
+        "__uuid__": "526e20d0-4e59-4f4e-a4c5-02911f22aada"
+      },
+      {
+        "__uuid__": "fcec8e5d-da76-4e19-9560-f5f2a899c0bf"
+      },
+      {
+        "__uuid__": "c529de5c-0d50-4728-bd2f-8b88e7941cf8"
+      },
+      {
+        "__uuid__": "58c36a6f-af2d-4515-b537-abf128f6659a"
+      },
+      {
+        "__uuid__": "300469b5-348b-4d05-b523-687a49a5fffb"
+      },
+      {
+        "__uuid__": "f308de0c-e865-42d5-9abf-b5c3f75af87b"
+      },
+      {
+        "__uuid__": "21874fe5-b0d5-403a-b7e9-a1d1018be895"
+      }
+    ],
+    "playOnLoad": false
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "c1b6b93d-5b75-4cc4-bb2c-d003b9b5d57a"
+    },
+    "fileId": "e7de4yiLzhCXKXqsBgvm7G3",
+    "sync": false
+  }
+]
