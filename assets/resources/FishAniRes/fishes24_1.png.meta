@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "5ef57c5e-005f-4720-bbfc-000b6fb572e3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fishes24_1": {
+      "ver": "1.0.3",
+      "uuid": "53960668-4905-48a7-8e57-bfb5d054754b",
+      "rawTextureUuid": "5ef57c5e-005f-4720-bbfc-000b6fb572e3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 984,
+      "height": 932,
+      "rawWidth": 988,
+      "rawHeight": 936,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

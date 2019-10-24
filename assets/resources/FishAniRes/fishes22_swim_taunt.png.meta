@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "450c79df-28b9-439b-89dc-17a8ce55ffb3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fishes22_swim_taunt": {
+      "ver": "1.0.3",
+      "uuid": "91da5734-86ee-4789-9964-417934611693",
+      "rawTextureUuid": "450c79df-28b9-439b-89dc-17a8ce55ffb3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 2039,
+      "height": 1019,
+      "rawWidth": 2043,
+      "rawHeight": 1023,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

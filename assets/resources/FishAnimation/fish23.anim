@@ -2,8 +2,8 @@
   "__type__": "cc.AnimationClip",
   "_name": "fish23",
   "_objFlags": 0,
-  "_rawFiles": null,
-  "_duration": 1.2,
+  "_native": "",
+  "_duration": 0.8666666666666667,
   "sample": 15,
   "speed": 1,
   "wrapMode": 2,
@@ -14,109 +14,79 @@
           {
             "frame": 0,
             "value": {
-              "__uuid__": "f7373e2b-dbf4-4498-8b3b-88e0d2c0603e"
+              "__uuid__": "8b115882-28b4-4ed3-9eea-324d1f674461"
             }
           },
           {
             "frame": 0.06666666666666667,
             "value": {
-              "__uuid__": "c15e292c-e73e-4ba4-8971-32ce58e021b2"
+              "__uuid__": "ed93f317-5805-4d8c-bf42-93dc41d56512"
             }
           },
           {
             "frame": 0.13333333333333333,
             "value": {
-              "__uuid__": "15411a3d-3aac-40ea-b98f-5430581e241d"
+              "__uuid__": "821e0b6b-d8f6-409f-83b5-4a0f4b0f34c9"
             }
           },
           {
             "frame": 0.2,
             "value": {
-              "__uuid__": "d6ed941c-18a0-4f53-a3d1-64504bb8201d"
+              "__uuid__": "5867fc43-2b7b-48a9-b254-cd3d7890aea5"
             }
           },
           {
             "frame": 0.26666666666666666,
             "value": {
-              "__uuid__": "c342c662-3098-45df-bbd6-2b59f669fb4d"
+              "__uuid__": "ad9dd910-6384-4751-ad4a-8242f49ee108"
             }
           },
           {
             "frame": 0.3333333333333333,
             "value": {
-              "__uuid__": "3cfd8801-9ae1-4097-80ee-3bf1da04cfb5"
+              "__uuid__": "5791efa3-4f38-403d-8e71-bf6cea7c6b12"
             }
           },
           {
             "frame": 0.4,
             "value": {
-              "__uuid__": "4bd87f5f-17d4-47ee-a5dc-6830b68eedec"
+              "__uuid__": "1f5d7aa2-6655-4082-88ac-2749920a3977"
             }
           },
           {
             "frame": 0.4666666666666667,
             "value": {
-              "__uuid__": "cd8ee815-4a32-496b-8961-4b21749d223e"
+              "__uuid__": "3e1f393a-ab2c-42ce-ba34-d8eea5935833"
             }
           },
           {
             "frame": 0.5333333333333333,
             "value": {
-              "__uuid__": "223c4bc2-ae80-41ef-8857-8588ace8a58e"
+              "__uuid__": "af60a5b9-8e1e-415a-9ca0-f68e5c4b7f4b"
             }
           },
           {
             "frame": 0.6,
             "value": {
-              "__uuid__": "3be7dcd3-23a9-475a-a5b5-0ed10f92ad8c"
+              "__uuid__": "12bde890-b4a5-4d96-9e08-9d92bc8f3c8c"
             }
           },
           {
             "frame": 0.6666666666666666,
             "value": {
-              "__uuid__": "4cac283d-3feb-43d0-b36e-b66104fa902c"
+              "__uuid__": "8dd5e205-4c35-4447-9bef-9aed97008812"
             }
           },
           {
             "frame": 0.7333333333333333,
             "value": {
-              "__uuid__": "0c6fce39-4579-4bce-989b-599903354924"
+              "__uuid__": "11aa6c4f-73c0-49d4-aada-1f3b103fd612"
             }
           },
           {
             "frame": 0.8,
             "value": {
-              "__uuid__": "f8fb8e55-9a89-4f04-9b4e-a1a55524fd08"
-            }
-          },
-          {
-            "frame": 0.8666666666666667,
-            "value": {
-              "__uuid__": "c41a1254-7925-4f7e-a8ff-45b85f0dd954"
-            }
-          },
-          {
-            "frame": 0.9333333333333333,
-            "value": {
-              "__uuid__": "9d092eb1-7e9b-44c8-8fd9-ae6f46390c47"
-            }
-          },
-          {
-            "frame": 1,
-            "value": {
-              "__uuid__": "e6d870b1-6c06-48a1-9826-b5d0712805b7"
-            }
-          },
-          {
-            "frame": 1.0666666666666667,
-            "value": {
-              "__uuid__": "23c331e9-ade7-4106-a942-a846cdcbeccb"
-            }
-          },
-          {
-            "frame": 1.1333333333333333,
-            "value": {
-              "__uuid__": "c34749be-2026-4196-9757-05ad4ace2543"
+              "__uuid__": "030e0569-fcf0-4b1c-a6a3-d27caae2c943"
             }
           }
         ]
